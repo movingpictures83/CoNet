@@ -1,0 +1,2 @@
+correlations	plugins/CoNet/example/corr.csv
+samples	40
