@@ -1,7 +1,9 @@
+# CoNet
 # Language: R
 # Input: TXT (keyword-value pairs)
 # Output: CSV (estimated original dataset)
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: CoNetinR_0.0.0.9000
 
 PluMA plugin that uses CoNet (Faust et al, 2012) to infer an original dataset from an interaction matrix.
 
